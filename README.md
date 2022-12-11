@@ -1,6 +1,6 @@
 # Oops Lab
 
-Project done by: Ifé-Michaela Spencer 
+Lab done by: Ifé-Michaela Spencer 
 
 
 OOPS LAB in order:
