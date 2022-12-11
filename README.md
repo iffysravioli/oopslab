@@ -1,3 +1,1 @@
-Attributes and Methods 
-
-For my_customer.py 
+Access Modifiers - student.py
