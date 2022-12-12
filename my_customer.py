@@ -11,3 +11,4 @@ class get_discount(customer):
 
     def apply_discount (self, price):
         return (int) (price * (1 - self.discount / 100.))
+
